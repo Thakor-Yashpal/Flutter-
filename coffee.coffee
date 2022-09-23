@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+# <<<<<<< HEAD
 # Eat lunch.
 eat = (food) -> "#{food} eaten."
 eat food for food in ['toast', 'cheese', 'wine']
